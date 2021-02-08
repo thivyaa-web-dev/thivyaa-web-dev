@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about web-development or any tech related stuff
-- 📫 How to reach me: Linkedin-Thivyaamohan
+- 📫 How to reach me:[linkedin](https://www.linkedin.com/in/thivyaamohan-nitt/)
 - 😄 Pronouns:She/Her ...
 - ⚡ Fun fact:I love to walk and listen the same songs many times a day:P ...
 -->
