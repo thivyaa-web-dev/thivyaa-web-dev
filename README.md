@@ -7,3 +7,7 @@
 - 😄 Pronouns:She/Her ...
 - ⚡ Fun fact:I love to walk and listen the same songs many times a day:P ...
 -->
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=thivyaa-web-dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
