@@ -1,6 +1,6 @@
 ### Hey! I am Thivyaa Mohan 👋
-- 🔭 I’m currently working on my startup Agroblock
-- 🌱 I’m currently learning Blockchain
+- 🔭 I’m currently contributing open source on CrossWoc
+- 🌱 I’m currently learning App development
 - 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about web-development or any tech related stuff
 - 📫 How to reach me:[linkedin](https://www.linkedin.com/in/thivyaamohan-nitt/)
