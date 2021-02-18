@@ -1,6 +1,6 @@
 ### Hey! I am Thivyaa Mohan 👋
 - 🔭 I’m currently contributing open source on CrossWoc
-- 🌱 I’m currently learning App development
+- 🌱 I’m currently learning DSA and ML
 - 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about web-development or any tech related stuff
 - 📫 How to reach me:[linkedin](https://www.linkedin.com/in/thivyaamohan-nitt/)
