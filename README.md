@@ -1,5 +1,5 @@
-### Hey! I am Thivyaa Mohan 👋
-- 🔭 I’m currently pursuing BTech Civil Engineering in NIT Trichy.
+Hey! I am Thivyaa  👋
+- 🔭 I’m currently pursuing BTech  in NIT Trichy.
 - 🌱 I’m currently learning DSA and ML
 - 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about web-development or any tech related stuff
