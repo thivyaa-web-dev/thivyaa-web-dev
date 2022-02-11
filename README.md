@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Thivyaa Mohan!](https://bio.link/kunalk) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Thivyaa Mohan!](https://www.linkedin.com/in/thivyaamohan-nitt/) 
 
 <a href="https://www.linkedin.com/in/thivyaamohan-nitt/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
