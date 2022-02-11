@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Thivyaa Mohan!](https://www.linkedin.com/in/thivyaamohan-nitt/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Thivyaa Mohan!](https://www.linkedin.com/in/thivyaamohan-nitt/)
 
 ### Connect with me on:
 
