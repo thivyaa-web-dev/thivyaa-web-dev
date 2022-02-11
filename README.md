@@ -26,6 +26,9 @@
 - 😄 Pronouns:She/Her ...
 -->
 
+🌟 STAR THE REPOS IF YOU LIKE 🌟
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thivyaa-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="thivyaa-web-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thivyaa-web-dev" alt="thivyaa-web-dev" /></a> </p>
