@@ -47,7 +47,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thivyaa-web-dev&show_icons=true&locale=en" alt="thivyaa-web-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thivyaa-web-dev&" alt="thivyaa-web-dev" /></p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thivyaa-web-dev&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+
+[![Thivyaa's github activity graph](https://activity-graph.herokuapp.com/graph?username=thivyaa-web-dev&theme=react-dark)](https://github.com/thivyaa-web-dev/github-readme-activity-graph)
+
+
+
 
 
 
