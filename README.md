@@ -18,16 +18,18 @@
 <br />
 <br />
 
-- 🔭 I’m currently pursuing BTech  in NIT Trichy.
-- 🌱 I’m currently learning DSA and ML
-- 👯 I’m looking to collaborate on Linkedin
-- 💬 Ask me about web-development or any tech related stuff
-- 📫 How to reach me:[linkedin](https://www.linkedin.com/in/thivyaamohan-nitt/)
-- 😄 Pronouns:She/Her ...
--->
+### About Me 🚀
+🎓 Currently pursuing **Minors in Computer Science Engineering** from **National Institute of Technology Trichy.**</br>
+👨‍💻  I am passionate about **Data Science, Web Development, Machine Learning and Open Source**.</br>
+:star:  I’m currently working on **Building Projects and  Open Source Development!** <br>
+:nerd_face: Currently learning **Full Stack Development.** <br>
+:snowflake: Love **Leetcoding and Problem solving** 💹 .<br>
+⏲️ **Hackathon Enthusiast**!<br>
 
-🌟 STAR THE REPOS IF YOU LIKE 🌟
+🥇 Won, **Hack Duke, Code For Good By University of Duke** .<br>
+🥇 Won, **PITT Challenge Hackathon, by University of Pittsburg**.<br>
 
+*:sleeping: Fun Fact about me, I love Bojack Horseman! 🐴*
 
 ### Honors & Awards 🏅
 - Received [Harvard WeCode Scholar'22](https://www.harvardwecode.com/) to attend the largest student-run Women in Tech conference in the world.
@@ -41,7 +43,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thivyaa-web-dev" alt="thivyaa-web-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thivyaamohan" target="blank"><img src="https://img.shields.io/twitter/follow/thivyaamohan?logo=twitter&style=for-the-badge" alt="thivyaamohan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ThivyaaMohan" target="blank"><img src="https://img.shields.io/twitter/follow/thivyaamohan?logo=twitter&style=for-the-badge" alt="thivyaamohan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,8 +70,19 @@
 
 
 <a href="https://github.com/thivyaa-web-dev/github-readme-twitter">
-<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=thivyaamohan&layout=wide&show_reply=off&show_retweet=off" />
+<img align="centre" src="https://github-readme-twitter.gazf.vercel.app/api?id=thivyaamohan&layout=wide&show_reply=off&show_retweet=off" />
 </a>
+
+
+
+
+
+
+### Show some ❤️ by starring some of the repositories!
+
+
+
+
 
 
 
