@@ -56,16 +56,18 @@
 <img align="centre" src="https://github-readme-twitter.gazf.vercel.app/api?id=thivyaamohan&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
-## :nerd_face: Thanks for visiting my page, A joke for you 😅: 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-
 <div align = "left">
  
 ## :muscle:	 Visitors Count
 ![VisitorCount](https://profile-counter.glitch.me/{thivyaa-web-dev}/count.svg)
 
 </div>
+
+## :nerd_face: Thanks for visiting my page, A joke for you 😅: 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
+
 
 
 
