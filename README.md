@@ -21,7 +21,7 @@
 ### About Me 🚀
 🎓 Currently pursuing **Minors in Computer Science Engineering** from **National Institute of Technology Trichy.**</br>
 👨‍💻  I am passionate about **Data Science, Web Development, Machine Learning and Open Source**.</br>
-:star:  I’m currently working on **Building Projects and  Open Source Development!** <br>
+🟩:  I’m currently working on **Building Projects and  Open Source Development!** <br>
 :nerd_face: Currently learning **Full Stack Development.** <br>
 :snowflake: Love **Leetcoding and Problem solving** 💹 .<br>
 ⏲️ **Hackathon Enthusiast**!<br>
