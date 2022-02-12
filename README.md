@@ -21,9 +21,6 @@
 - Selected as top 250 Scholars for [AnitaB.org Grace Hopper Celebration](https://ghc.anitab.org/attend/scholarships/academics/) for demonstrated excellence in technology.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thivyaa-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="thivyaa-web-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thivyaa-web-dev" alt="thivyaa-web-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ThivyaaMohan" target="blank"><img src="https://img.shields.io/twitter/follow/thivyaamohan?logo=twitter&style=for-the-badge" alt="thivyaamohan" /></a> </p>
 
@@ -62,7 +59,14 @@
 ## :nerd_face: Thanks for visiting my page, A joke for you 😅: 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-## Show some ❤️ by starring some of the repositories!
+
+<div align = "left">
+ 
+## :muscle:	 Visitors Count
+![VisitorCount](https://profile-counter.glitch.me/{thivyaa-web-dev}/count.svg)
+
+</div>
+
 
 
 
