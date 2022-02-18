@@ -1,9 +1,15 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Coding%20is%20Awesome%20!%20👨‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Thivyaa Mohan!](https://www.linkedin.com/in/thivyaamohan-nitt/)
+
+<h3 align="center"> [ Currently Pursuing B.Tech from NIT Trichy ] - [Pre-final year]</h3>
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15641580/media/b1448638055d8095ce451c22bdd41244.png?compress=1&resize=1200x900&vertical=top">
+
 
 ## 🚀 About Me
 
-🎓 Currently pursuing **Minors in Computer Science Engineering** from **National Institute of Technology Trichy.**</br>
-👨‍💻  I am passionate about **Data Science, Web Development, Machine Learning and Open Source**.</br>
+👨‍💻  I am passionate about **Web Development, ML and Open Source**.</br>
 🟩:  I’m currently working on **Building Projects and  Open Source Development!** <br>
 :nerd_face: Currently learning **Full Stack Development.** <br>
 :snowflake: Love **Leetcoding and Problem solving** 💹 .<br>
