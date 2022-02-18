@@ -1,6 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Thivyaa Mohan!](https://www.linkedin.com/in/thivyaamohan-nitt/)
 
 ## 🚀 About Me
+
 🎓 Currently pursuing **Minors in Computer Science Engineering** from **National Institute of Technology Trichy.**</br>
 👨‍💻  I am passionate about **Data Science, Web Development, Machine Learning and Open Source**.</br>
 🟩:  I’m currently working on **Building Projects and  Open Source Development!** <br>
@@ -12,6 +13,7 @@
 🥈 Won, **PITT Challenge Hackathon, by University of Pittsburg**.<br>
 
 *:sleeping: Fun Fact about me, I love Bojack Horseman! 🐴*
+
 
 ## 🏆  Honors & Awards
 - Received [Harvard WeCode Scholar'22](https://www.harvardwecode.com/) to attend the largest student-run Women in Tech conference in the world.
