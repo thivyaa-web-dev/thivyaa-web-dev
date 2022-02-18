@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 👨‍💻  I am passionate about **Web Development, ML and Open Source**.</br>
-🟩:  I’m currently working on **Building Projects and  Open Source Development!** <br>
+🟩:  I’m currently working on **Building Projects & Open Source!** <br>
 :nerd_face: Currently learning **Full Stack Development.** <br>
 :snowflake: Love **Leetcoding and Problem solving** 💹 .<br>
 ⏲️ **Hackathon Enthusiast**!<br>
