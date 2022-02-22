@@ -37,6 +37,7 @@
 <a href="https://linkedin.com/in/thivyaamohan-nitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thivyaamohan-nitt" height="30" width="40" /></a>
 <a href="https://fb.com/thivyaa.thivyaa.169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thivyaa.thivyaa.169/" height="30" width="40" /></a>
 <a href="https://instagram.com/thivyaa_mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thivyaa_mohan" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to/thivyaamohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/thivyaamohan" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">:star2:	Languages and Tools:</h3>
