@@ -64,10 +64,6 @@
 <img align="centre" src="https://github-readme-twitter.gazf.vercel.app/api?id=thivyaamohan&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
-## ✍️ Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <div align = "left">
  
