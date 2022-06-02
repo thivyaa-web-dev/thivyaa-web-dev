@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Coding%20is%20Awesome%20!%20👨‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Coding%20is%20Awesome%20!%20👨‍💻&width=100&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thivyaa Mohan!</h1>
 <h3 align="center"> [ Currently Pursuing B.Tech from NIT Trichy ] - [Pre-final year]</h3>
 
