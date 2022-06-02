@@ -26,7 +26,7 @@
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) North America’21 of Linux Foundation.
 - Selected as one of the 200 Scholars for [Open Source Summit + Embedded Linux Conference + OSPOCon’21.](https://events.linuxfoundation.org/open-source-summit-north-america/).
 - Selected as top 250 Scholars for [AnitaB.org Grace Hopper Celebration](https://ghc.anitab.org/attend/scholarships/academics/) for demonstrated excellence in technology.
--  Selected to attend [Github Field Day India](https://githubfieldday.com/), an unconference for leaders of technical student communities.
+-  Selected to attend [Github Field Day India](https://githubfieldday.com/), a regional unconference for leaders of technical student communities.
 
 
 
