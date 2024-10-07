@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Coding%20is%20Awesome%20!%20👨‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hey , I'm Thivyaa Mohan!</h1>
-<h3 align="center"> Analyst at HSBC  | B.Tech from NIT Trichy </h3>
+<h3 align="center"> Data Analyst at HSBC  | B.Tech from NIT Trichy </h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15641580/media/b1448638055d8095ce451c22bdd41244.png?compress=1&resize=1200x900&vertical=top">
