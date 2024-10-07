@@ -66,8 +66,8 @@
 
 ## 😄 Check out my latest Tweets!
 
-<a href="https://github.com/thivyaa-web-dev/github-readme-twitter">
-<img align="centre" src="https://github-readme-twitter.gazf.vercel.app/api?id=thivyaamohan&layout=wide&show_reply=off&show_retweet=off" />
+<a href="https://github.com/thivyaa-web-dev/github-readme-x">
+<img align="centre" src="https://github-readme-x.gazf.vercel.app/api?id=thivyaamohan&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
 
