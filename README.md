@@ -17,8 +17,6 @@
 🥇 Won, **Hack Duke, Code For Good By University of Duke** .<br>
 🥈 Won, **PITT Challenge Hackathon, by University of Pittsburg**.<br>
 
-*:sleeping: Fun Fact about me, I love Bojack Horseman! 🐴*
-
 
 ## 🏆  Honors & Awards
 - Received [Harvard WeCode Scholar'22](https://www.harvardwecode.com/) to attend the largest student-run Women in Tech conference in the world.
